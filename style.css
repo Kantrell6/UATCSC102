@@ -1,0 +1,10 @@
+/* Creative element: Background and font */
+body { 
+    background-color: #af2222; 
+    font-family: sans-serif; 
+}
+
+/* Visual feedback for buttons */
+button:disabled { 
+    opacity: 0.5; 
+}
