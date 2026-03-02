@@ -1,0 +1,35 @@
+/* Style for the body to match your creative theme */
+body {
+    background-color: #000033;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Requirement: Use CSS to make the table look professional */
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse; /* Removes double borders */
+    width: 80%;
+}
+
+/* Styling the table headers */
+th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+/* Styling the table data cells */
+td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #1a1a4d;
+}
+
+/* Add a hover effect for a better user experience */
+tr:hover {
+    background-color: #2a2a6d;
+}
